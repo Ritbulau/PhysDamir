@@ -11,7 +11,7 @@ using SFML.System;
 using System.Security.AccessControl;
 using System.Security.Cryptography;
 
-namespace PhysDam
+namespace PhysDamir
 {
     public class ExtraFunc {public virtual void Update(int Index) { } }
 
